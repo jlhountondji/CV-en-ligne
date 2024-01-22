@@ -1,0 +1,16 @@
+body{
+font-style: italic;
+font-size: larger;
+}
+h2{
+    color: brown;
+}
+h1{
+    color: #ee940c;
+}
+.bordure{
+    font-size: 50px;
+    border-style:double;
+    border-width: 5px;
+    border-color: blue;
+}
